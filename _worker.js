@@ -8,7 +8,7 @@ const apiEmail = "doraemonmon154@gmail.com"; // Ganti dengan email yang kalian g
 const accountID = "8037b2d9a9dfedf16052febdef33771d"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "db86da8347a2dd69ff6cb32b61645e16"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "130.0.234.178:26884";
+let proxyIP = "36.95.152.58:12137";
 let cachedProxyList = [];
 
 // Constant
